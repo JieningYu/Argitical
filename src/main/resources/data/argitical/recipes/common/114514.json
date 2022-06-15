@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "argitical:number_positive_11"
+    },
+    "B": {
+      "item": "argitical:number_positive_45"
+    },
+    "C": {
+      "item": "argitical:number_positive_14"
+    }
+  },
+  "result": {
+    "item": "argitical:smelly_item"
+  }
+}

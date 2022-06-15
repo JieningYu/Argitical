@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "argitical",
+  "version": "0.1",
+
+  "name": "Argitical",
+  "description": "Art of Digits",
+  "authors": [
+    "Yjn024"
+  ],
+  "contact": {
+    "sources": "https://github.com/JieningYu/Argitical"
+  },
+
+  "license": "MIT",
+  "icon": "assets/cabrically/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.jieningyu.argitical.Argitical"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": ">=1.18.2",
+    "java": ">=17",
+    "create": "*"
+  }
+}
